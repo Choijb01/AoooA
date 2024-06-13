@@ -44,5 +44,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ----
-  
+
+## 메인 페이지
 ![1](https://github.com/Choijb01/AoooA/assets/144335734/739acb8f-751e-4361-aef1-7800d74a65b8)
+
+----
+
+## ER다이어그램 & 화면구성도
+<img width="1078" alt="image" src="https://github.com/Choijb01/AoooA/assets/144335734/b0699594-52be-41f1-aa94-0f936504fe01">
+
+
+
